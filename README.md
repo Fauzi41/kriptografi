@@ -1,2 +1,6 @@
 # kriptografi
-Kumpulan hasil coding berbagai macam cara kriptografi
+Kumpulan hasil coding macam-macam Enkripsi
+
+*CAESAR CIPHER
+*SIMPLE COLUMNAR TRANSPOSITION
+*RAIL FENCE CIPHER
